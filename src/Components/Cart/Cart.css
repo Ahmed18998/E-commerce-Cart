@@ -1,0 +1,12 @@
+.cart span {
+  right: 2px;
+  position: absolute;
+  top: 5px;
+}
+.cart svg {
+  font-size: 20px;
+  color: #000 !important;
+}
+.delete svg {
+  margin-right: 5px;
+}

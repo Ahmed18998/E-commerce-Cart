@@ -1,0 +1,48 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "ipad mini",
+      "price": "100",
+      "image": "https://m.media-amazon.com/images/I/41FYkVPzrIL.jpg",
+      "description": "Lorem ipsum dolor sit amen, consenter advising elite, sed do elusion tempore incident ut laborer et dolores magna aliquant."
+    },
+    {
+      "id": 2,
+      "name": "iPhone pro",
+      "price": "200",
+      "image": "https://m.media-amazon.com/images/I/41FYkVPzrIL.jpg",
+      "description": "Lorem ipsum dolor sit amen, consenter advising elite, sed do elusion tempore incident ut laborer et dolores magna aliquant."
+    },
+    {
+      "id": 3,
+      "name": "ipad pro",
+      "price": "300",
+      "image": "https://m.media-amazon.com/images/I/41FYkVPzrIL.jpg",
+      "description": "Lorem ipsum dolor sit amen, consenter advising elite, sed do elusion tempore incident ut laborer et dolores magna aliquant."
+    },
+    {
+      "id": 4,
+      "name": "iPhone 8",
+      "price": "400",
+      "image": "https://m.media-amazon.com/images/I/41FYkVPzrIL.jpg",
+      "description": "Lorem ipsum dolor sit amen, consenter advising elite, sed do elusion tempore incident ut laborer et dolores magna aliquant."
+    },
+    {
+      "id": 5,
+      "name": "iPhone 6",
+      "price": "500",
+      "image": "https://m.media-amazon.com/images/I/41FYkVPzrIL.jpg",
+      "description": "Lorem ipsum dolor sit amen, consenter advising elite, sed do elusion tempore incident ut laborer et dolores magna aliquant."
+    },
+    {
+      "id": 6,
+      "name": "iPhone 7",
+      "price": "600",
+      "image": "https://m.media-amazon.com/images/I/41FYkVPzrIL.jpg",
+      "description": "Lorem ipsum dolor sit amen, consenter advising elite, sed do elusion tempore incident ut laborer et dolores magna aliquant."
+    }
+  ],
+  "cart": [],
+  "payed": []
+}
